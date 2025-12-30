@@ -1,0 +1,21 @@
+mini-facebook/
+│
+├── server.js
+├── package.json
+├── .gitignore
+│
+├── models/
+│   ├── User.js
+│   └── Post.js
+│
+├── uploads/
+│   ├── pfps/
+│   └── posts/
+│
+├── public/
+│   ├── index.html        // login + signup
+│   ├── feed.html         // main feed
+│   ├── style.css
+│   ├── script.js
+│
+└── README.md
